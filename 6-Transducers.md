@@ -1,6 +1,5 @@
 # Transducers
-- Brandon Williams @mbrandonw (Kickstarter)
-
+### Brandon Williams @mbrandonw (Kickstarter)
 - Brandon moved fast and did a lot of live-coding in a playground, so my notes for this talk aren't great. 
 - Check out his [transducers playground](https://github.com/mbrandonw/learn-transducers-playground) on github
 
