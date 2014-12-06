@@ -1,5 +1,5 @@
 # Swift Network Programming (with Monads)
-## John Gallagher (@nerdyjkg) (Big Nerd Ranch)
+- John Gallagher (@nerdyjkg) (Big Nerd Ranch)
 
 ## What is a Monad?
 - "A monad is just a monoid in the category of endofunctors" (Categories for the Working Mathematician)
