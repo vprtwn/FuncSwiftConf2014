@@ -28,11 +28,11 @@
 - Fox can also help test stateful code
 - create *state* and *transitions*
 - Fox can assert that *propertes* are true after a random series of state transitions
-- (mindblown)
+- More powerful than example-based tests
 
 ### Questions
 - QuickCheck in Erlang has crazy time-based assertions
     - In one talk, John Hughes live codes an elevator system with a UI and QuickCheck tests
     - **Check out Erlang / ^ talk**
-- Not implemented in `Fox` yet
+    - Not implemented in `Fox` yet
 
