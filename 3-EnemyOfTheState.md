@@ -1,5 +1,5 @@
 # Enemy of the State
-## Justin Spahr-Summers
+#### Justin Spahr-Summers
 - [slides](https://github.com/jspahrsummers/enemy-of-the-state)
 
 | "State is the single biggest source of complexity in software development"
