@@ -1,5 +1,5 @@
-# Functional Swift Conference 2014
-## The Functional Way - @natashatherobot
+# The Functional Way
+## @natashatherobot
 
 ### Value types
 > All types in Swift are value types. Classes are the exception rather than the rule
