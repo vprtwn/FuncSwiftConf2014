@@ -40,7 +40,9 @@ enum Result<T> {
 - Steal ideas from other languages
 - Use functional techniques when it makes sense
 - Say goodbye to `NSError **`
-- check out bignerdranch github for Result, Deferred, and DeferredTCPSocket
+- https://github.com/bignerdranch/Result
+- https://github.com/bignerdranch/Deferred
+- https://github.com/bignerdranch/DeferredTCPSocket
 - https://realworldocaml.org
 
 ## Questions
