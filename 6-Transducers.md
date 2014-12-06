@@ -1,8 +1,11 @@
 # Transducers
-## Brandon Williams @mbrandonw (Kickstarter)
+- Brandon Williams @mbrandonw (Kickstarter)
+
+- Brandon moved fast and did a lot of live-coding in a playground, so my notes for this talk aren't great. 
+- Check out his [transducers playground](https://github.com/mbrandonw/learn-transducers-playground) on github
 
 ## Tenets of FP
-- Function composition (the most important thing)
+- **Function composition**
 - Immutability
 - Statelessness
 
@@ -27,3 +30,5 @@
 ## The mapping transducer
 - lifts any function A -> B to a transducer from B to A
     - look up contravariance
+
+
