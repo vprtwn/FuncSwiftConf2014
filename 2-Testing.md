@@ -1,16 +1,14 @@
 # Functional Programming in Swift
-## Brian Gesiak (@modocache)
-
-### Background
+### Brian Gesiak (@modocache)
 - wrote Quick (Swift + ObjC unit testing framework)
 - works on core systems at Facebook (shared libraries in FB apps)
 
-### Testing
+## Testing
 - Testing involves manipulating state
     - arrange (create state) 
     - act (modify state) 
     - assert (make sure state changed appropriately)
-#### What's different in FP? 
+### What's different in FP? 
 - no mutated state in the functions you're testing
 - spend less time worrying about state
 - less setup -> act step is less important
@@ -26,13 +24,13 @@
     - Fox finds the **minimum viable failing case**, not just the first encountered
 - Concept from the functional landscape, but still useful in the imperative world
 
-#### Testing state
+### Testing state
 - Fox can also help test stateful code
 - create *state* and *transitions*
 - Fox can assert that *propertes* are true after a random series of state transitions
 - (mindblown)
 
-#### Questions
+### Questions
 - QuickCheck in Erlang has crazy time-based assertions
     - In one talk, John Hughes live codes an elevator system with a UI and QuickCheck tests
     - **Check out Erlang / ^ talk**
