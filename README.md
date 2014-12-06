@@ -12,7 +12,6 @@
 ## Links / Further reading
 - [Quick](https://github.com/Quick/Quick): Swift + ObjC testing framework
 - [Fox](https://github.com/jeffh/Fox): Property Based Testing for Swift + ObjC
-- 
 - [Rob Rix - Unobservable effects with value types](http://intersections.tumblr.com/post/99634084704/unobservable-effects-with-value-types)
 - [Andy Matuschak - A Warm Welcome to Structs and Value Types](http://www.objc.io/issue-16/swift-classes-vs-structs.html)
 
