@@ -1,7 +1,8 @@
 # Functioning as a Functionalist
-## Andy Matuschak @andy_matuschak
+#### Andy Matuschak @andy_matuschak
 
-- Watch his 2014 WWDC talk (#229)
+- [WWDC2014 talk #229 - Advanced iOS Application Architecture and Patterns](https://developer.apple.com/videos/wwdc/2014/)
+    - [ASCIIWWDC](http://asciiwwdc.com/2014/sessions/229)
 - Formerly worked on UIKit at Apple, now leads mobile engineering at Khan Academy
 - Swift suggests that functional programming is the way forward
     - huge opportunity, but also a culture clash
