@@ -16,6 +16,7 @@
 - [Andy Matuschak - Mutability, aliasing, and the caches you didn't know you had](http://garbagecollective.quora.com/Mutability-aliasing-and-the-caches-you-didnt-know-you-had)
 - [Gary Bernhardt - Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 - [WWDC2014 #229 - Advanced iOS Application Architecture and Patterns](https://developer.apple.com/videos/wwdc/2014/)
+- [Scott Goodson - Behind AsyncDisplayKit](http://vimeo.com/103589245)
 - [Quick](https://github.com/Quick/Quick): Swift + ObjC testing framework
 - [Fox](https://github.com/jeffh/Fox): Property Based Testing for Swift + ObjC
 - [LlamaKit](https://github.com/LlamaKit/LlamaKit): Swift functional tools
